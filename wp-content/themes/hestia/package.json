@@ -1,0 +1,11 @@
+{
+  "name": "hestia",
+  "version": "1.0.0",
+  "description": "**Contributors:** [themeisle](https://profiles.wordpress.org/themeisle)   **Tags:** blog, custom-logo, portfolio, e-commerce, rtl-language-support, post-formats, grid-layout, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, editor-style, footer-widgets, left-sidebar, right-sidebar, wide-blocks   **Requires at least:** 4.0   **Tested up to:** 5.0   **Stable tag:** 2.0.7   **License:** GPLv2 or later   **License URI:** http://www.gnu.org/licenses/gpl-2.0.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
